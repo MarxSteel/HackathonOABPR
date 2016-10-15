@@ -1,3 +1,6 @@
 <strong>logos do projeto </strong>
 
-!["AdminLTE Presentation"] (https://almsaeedstudio.com/AdminLTE2.png "AdminLTE Presentation")
+!["Horizontal Negativa"] (https://github.com/MarxSteel/HackathonOABPR/blob/front/logo/Directo_Logo-Horizontal%20Negativa.png "Horizontal Negativa")
+
+
+!["Horizontal"] (https://github.com/MarxSteel/HackathonOABPR/blob/front/logo/Directo_Logo-Horizontal.png "Horizontal")
